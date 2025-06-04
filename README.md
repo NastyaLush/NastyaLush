@@ -4,10 +4,12 @@
 
 
 <h3 align="left">About me</h3>
-Студентка 3 курса университета ИТМО на программе "Информатика и вычислительная техника". Сейчас активно развиваюсь в области Java-разработки, ищу новые интересные проекты и возможности для роста.
+Java Backend Developer with over **2 years** of experience in a large IT product (T-Bank). Actively involved in the full development cycle of high-load services in a team of 4-30+ people, working in Agile/Kanban. Possess a deep understanding of the company's product domain and information security requirements.
 
-- 💬 связаться со мной можно [здесь](https://t.me/runtik0)
-- 📫 найти резюме [здесь](https://drive.google.com/file/d/1NWk_RSHhKQ0VI0R6rLjIfKrjUdTPq04J/view?usp=sharing)
+Graduate of ITMO University (2025) with a bachelor degree in _"Computer Science and Computing Technology"_. In my free time, I develop the Java ecosystem by mentoring and reviewing students' homework, which allows me to gain a deeper understanding of the language fundamentals and common mistakes.
+
+- 💬 chat me [here](https://t.me/runtik0)
+- 📫 my resume is [here](https://drive.google.com/file/d/1NWk_RSHhKQ0VI0R6rLjIfKrjUdTPq04J/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
