@@ -4,7 +4,7 @@
 
 
 <h3 align="left">About me</h3>
-Java Backend Developer with over **2 years** of experience in a large IT product (T-Bank). Actively involved in the full development cycle of high-load services in a team of 4-30+ people, working in Agile/Kanban. Possess a deep understanding of the company's product domain and information security requirements.
+Java Backend Developer with over <b>2 years</b> of experience in a large IT product (T-Bank). Actively involved in the full development cycle of high-load services in a team of 4-30+ people, working in Agile/Kanban. Possess a deep understanding of the company's product domain and information security requirements.
 
 Graduate of ITMO University (2025) with a bachelor degree in _"Computer Science and Computing Technology"_. In my free time, I develop the Java ecosystem by mentoring and reviewing students' homework, which allows me to gain a deeper understanding of the language fundamentals and common mistakes.
 
